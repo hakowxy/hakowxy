@@ -9,7 +9,7 @@
 I turn messy business data into dashboards and reports that people actually use.
 
 [![Email](https://img.shields.io/badge/Email-xinyangma18%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xinyangma18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinyang-ma-122844288/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinyang-m-122844288/)
 ![Location](https://img.shields.io/badge/Based%20in-Munich%2C%20Germany-2E7D32?style=flat-square&logo=googlemaps&logoColor=white)
 ![Work permit](https://img.shields.io/badge/Work%20permit-Germany%20·%20no%20sponsorship%20needed-555555?style=flat-square)
 
