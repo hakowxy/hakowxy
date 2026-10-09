@@ -19,6 +19,7 @@ Before that I studied finance and economics, then did an MSc in Data Science & A
 
 **Some things I've worked on**
 
+- [What makes Munich cycle?](https://github.com/hakowxy/munich-cycling): how weather, holidays and events drive cycling at the city's bike counters in 2025. A regression explains 92% of daily variation, and the [dashboard](https://hakowxy.github.io/munich-cycling/) has a weather predictor you can play with.
 - [Retail sales analysis and forecast](https://github.com/hakowxy/retail-sales-analytics): SQL star schema, profitability deep-dive and a sales forecast tested against baselines, with an [interactive dashboard](https://hakowxy.github.io/retail-sales-analytics/). It found that 28% of revenue was earning zero margin.
 - Sales forecasting for Pierre Fabre across 16 countries using SARIMA and XGBoost. Our team won the Best Model Award (๑•̀ㅂ•́)و✧
 - An LSTM model for APEM that predicts operation times in manufacturing sequences.
