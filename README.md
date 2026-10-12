@@ -1,12 +1,15 @@
 <img src="assets/avatar.png" width="128" align="right" alt="Xinyang Ma" />
 
-### Hello, 你好! I'm Xinyang ( ´ ▽ ` )ﾉ
+### Hello, 你好! I'm Xinyang ヾ(•ω•`)o
 
-Data analyst based in Munich. I mostly work with Power BI, SQL and Python, building reporting that sales and finance teams rely on every week.
+I'm a data analyst in Munich who likes finding the story in everyday numbers: what a Maß *really* costs, how much rain keeps the city's cyclists at home, and what tourists complain about in four languages.
 
-Until recently I was at Capgemini in Paris, where I owned the sales reporting for the commercial team. I built five Power BI dashboards and replaced a lot of manual Excel work with Power Query, DAX and a pandas pipeline.
+By day I build BI reporting with Power BI, SQL and Python. Most recently I owned the sales reporting for Capgemini's commercial team in Paris.
 
-Before that I studied finance and economics, then did an MSc in Data Science & AI at TBS Education.
+🇨🇳 China → 🇹🇼 Taiwan → 🇫🇷 Bordeaux · Toulouse · Paris → 🇩🇪 Munich<br />
+Finance degree, data science master's, four years in France, and now learning German one Maß at a time.
+
+**Currently:** learning German (B1) · building a customer-retention project · open to Data / BI Analyst roles in Munich
 
 <br clear="right" />
 
@@ -63,6 +66,12 @@ Each one has a live dashboard you can click around in, and a notebook that walks
 
 **Just for fun:** [mood jukebox](https://mood-jazz-jukebox-pj9fzgvsfxyczs7aerxtxm.streamlit.app/), a little Streamlit app that picks jazz, lo-fi or city pop for your mood and where you're listening ([code](https://github.com/hakowxy/mood-jazz-jukebox)) ♪
 
+### How I work
+
+- **I check the data before I trust it.** Every project starts with what's broken in the source.
+- **I use the simplest model that works**, and I say when it doesn't.
+- **Every chart should answer a question** someone actually asked.
+
 ### Toolbox
 
 **Tools:** Power BI (DAX, Power Query), SQL, Python (pandas), R, Tableau, Excel, Azure ML, Dataiku, Spark, Salesforce
@@ -71,6 +80,6 @@ Each one has a live dashboard you can click around in, and a notebook that walks
 
 **Languages:** Chinese (native), English, French, German (B1, still learning (・ω・))
 
-I'm looking for data analyst or BI roles in Germany and can work without visa sponsorship. Feel free to reach out!
+I can work in Germany without visa sponsorship. Feel free to reach out!
 
 [LinkedIn](https://www.linkedin.com/in/xinyang-m-122844288/) · [xinyangma18@gmail.com](mailto:xinyangma18@gmail.com)
