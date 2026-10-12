@@ -20,7 +20,7 @@ A **finance** degree, a **data science** master's, four years in France, and now
 
 ### Projects
 
-Each one has a live dashboard you can click around in, and a notebook that walks through the analysis.
+*Each one has a **live dashboard** you can click around in, and a **notebook** that walks through the analysis.*
 
 <a href="https://hakowxy.github.io/wiesn-mass-index/">
   <picture>
@@ -58,28 +58,28 @@ Each one has a live dashboard you can click around in, and a notebook that walks
 
 [Live dashboard](https://hakowxy.github.io/retail-sales-analytics/) · [Code & analysis](https://github.com/hakowxy/retail-sales-analytics)
 
-**From my master's** (team projects with companies, code not public)
+***From my master's*** *(team projects with companies, code not public)*
 
-- Sales forecasting for Pierre Fabre across 16 countries with SARIMA and XGBoost. Our team won the Best Model Award (๑•̀ㅂ•́)و✧
-- An LSTM model for APEM that predicts operation times in manufacturing sequences.
-- A skincare advice chatbot built with Copilot Studio and Python.
+- *Sales forecasting for **Pierre Fabre** across **16 countries** with **SARIMA and XGBoost**. Our team won the **Best Model Award*** (๑•̀ㅂ•́)و✧
+- *An **LSTM model** for **APEM** that predicts operation times in manufacturing sequences.*
+- *A skincare advice **chatbot** built with **Copilot Studio and Python**.*
 
-**Just for fun:** [mood jukebox](https://mood-jazz-jukebox-pj9fzgvsfxyczs7aerxtxm.streamlit.app/), a little Streamlit app that picks jazz, lo-fi or city pop for your mood and where you're listening ([code](https://github.com/hakowxy/mood-jazz-jukebox)) ♪
+***Just for fun:*** *[mood jukebox](https://mood-jazz-jukebox-pj9fzgvsfxyczs7aerxtxm.streamlit.app/), a little **Streamlit app** that picks jazz, lo-fi or city pop for your mood and where you're listening ([code](https://github.com/hakowxy/mood-jazz-jukebox))* ♪
 
 ### How I work
 
-- **I check the data before I trust it.** Every project starts with what's broken in the source.
-- **I use the simplest model that works**, and I say when it doesn't.
-- **Every chart should answer a question** someone actually asked.
+- ***I check the data before I trust it.*** *Every project starts with what's broken in the source.*
+- ***I use the simplest model that works***, *and I say when it doesn't.*
+- ***Every chart should answer a question*** *someone actually asked.*
 
 ### Toolbox
 
-**Tools:** Power BI (DAX, Power Query), SQL, Python (pandas), R, Tableau, Excel, Azure ML, Dataiku, Spark, Salesforce
+***Tools:*** *Power BI (DAX, Power Query), SQL, Python (pandas), R, Tableau, Excel, Azure ML, Dataiku, Spark, Salesforce*
 
-**Certifications:** Power BI Data Analyst (PL-300), Azure Data Scientist (DP-100), Tableau Desktop Specialist, SAS Certified Data Scientist
+***Certifications:*** *Power BI Data Analyst (PL-300), Azure Data Scientist (DP-100), Tableau Desktop Specialist, SAS Certified Data Scientist*
 
-**Languages:** Chinese (native), English, French, German (B1, still learning (・ω・))
+***Languages:*** *Chinese (native), English, French, German (B1, still learning)* (・ω・)
 
-I can work in Germany without visa sponsorship. Feel free to reach out!
+*I can work in Germany **without visa sponsorship**. Feel free to reach out!*
 
 [LinkedIn](https://www.linkedin.com/in/xinyang-m-122844288/) · [xinyangma18@gmail.com](mailto:xinyangma18@gmail.com)
