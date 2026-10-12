@@ -22,41 +22,41 @@ Finance degree, data science master's, four years in France, and now learning Ge
 
 Each one has a live dashboard you can click around in, and a notebook that walks through the analysis.
 
-<a href="https://hakowxy.github.io/wiesn-mass-index/">
+<a href="https://xinyangma18.github.io/wiesn-mass-index/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/mass-dark.png" />
     <img src="assets/cards/mass-light.png" width="100%" alt="The Maß Index: Oktoberfest beer prices vs inflation, +85% real price rise since 1991" />
   </picture>
 </a>
 
-[Live dashboard](https://hakowxy.github.io/wiesn-mass-index/) · [Code & analysis](https://github.com/hakowxy/wiesn-mass-index)
+[Live dashboard](https://xinyangma18.github.io/wiesn-mass-index/) · [Code & analysis](https://github.com/xinyangma18/wiesn-mass-index)
 
-<a href="https://hakowxy.github.io/munich-airbnb/">
+<a href="https://xinyangma18.github.io/munich-airbnb/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/airbnb-dark.png" />
     <img src="assets/cards/airbnb-light.png" width="100%" alt="Munich on Airbnb: +66% Oktoberfest price premium, 249k reviews in 4 languages" />
   </picture>
 </a>
 
-[Live dashboard](https://hakowxy.github.io/munich-airbnb/) · [Code & analysis](https://github.com/hakowxy/munich-airbnb)
+[Live dashboard](https://xinyangma18.github.io/munich-airbnb/) · [Code & analysis](https://github.com/xinyangma18/munich-airbnb)
 
-<a href="https://hakowxy.github.io/munich-cycling/">
+<a href="https://xinyangma18.github.io/munich-cycling/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/cycling-dark.png" />
     <img src="assets/cards/cycling-light.png" width="100%" alt="What makes Munich cycle? Regression explains 92% of daily variation" />
   </picture>
 </a>
 
-[Live dashboard](https://hakowxy.github.io/munich-cycling/) · [Code & analysis](https://github.com/hakowxy/munich-cycling)
+[Live dashboard](https://xinyangma18.github.io/munich-cycling/) · [Code & analysis](https://github.com/xinyangma18/munich-cycling)
 
-<a href="https://hakowxy.github.io/retail-sales-analytics/">
+<a href="https://xinyangma18.github.io/retail-sales-analytics/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/retail-dark.png" />
     <img src="assets/cards/retail-light.png" width="100%" alt="Where does the profit go? 28% of revenue earning zero margin" />
   </picture>
 </a>
 
-[Live dashboard](https://hakowxy.github.io/retail-sales-analytics/) · [Code & analysis](https://github.com/hakowxy/retail-sales-analytics)
+[Live dashboard](https://xinyangma18.github.io/retail-sales-analytics/) · [Code & analysis](https://github.com/xinyangma18/retail-sales-analytics)
 
 **From my master's** (team projects with companies, code not public)
 
@@ -64,7 +64,7 @@ Each one has a live dashboard you can click around in, and a notebook that walks
 - An LSTM model for APEM that predicts operation times in manufacturing sequences.
 - A skincare advice chatbot built with Copilot Studio and Python.
 
-**Just for fun:** [mood jukebox](https://mood-jazz-jukebox-pj9fzgvsfxyczs7aerxtxm.streamlit.app/), a little Streamlit app that picks jazz, lo-fi or city pop for your mood and where you're listening ([code](https://github.com/hakowxy/mood-jazz-jukebox)) ♪
+**Just for fun:** [mood jukebox](https://mood-jazz-jukebox-pj9fzgvsfxyczs7aerxtxm.streamlit.app/), a little Streamlit app that picks jazz, lo-fi or city pop for your mood and where you're listening ([code](https://github.com/xinyangma18/mood-jazz-jukebox)) ♪
 
 ### How I work
 
