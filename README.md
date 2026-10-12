@@ -1,6 +1,6 @@
 <img src="assets/avatar.png" width="128" align="right" alt="Xinyang Ma" />
 
-### Hi, I'm Xinyang ( ´ ▽ ` )ﾉ
+### Hello, 你好! I'm Xinyang ( ´ ▽ ` )ﾉ
 
 Data analyst based in Munich. I mostly work with Power BI, SQL and Python, building reporting that sales and finance teams rely on every week.
 
