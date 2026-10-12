@@ -2,14 +2,14 @@
 
 ### Hello, 你好! I'm Xinyang ヾ(•ω•`)o
 
-I'm a data analyst in Munich who likes finding the story in everyday numbers: what a Maß *really* costs, how much rain keeps the city's cyclists at home, and what tourists complain about in four languages.
+*I'm a **data analyst in Munich** who likes finding **the story in everyday numbers**: what a Maß really costs, how much rain keeps the city's cyclists at home, and what tourists complain about in four languages.*
 
-By day I build BI reporting with Power BI, SQL and Python. Most recently I owned the sales reporting for Capgemini's commercial team in Paris.
+*By day I build **BI reporting** with **Power BI, SQL and Python**. Most recently I owned the sales reporting for **Capgemini**'s commercial team in Paris.*
 
-🇨🇳 China → 🇹🇼 Taiwan → 🇫🇷 Bordeaux · Toulouse · Paris → 🇩🇪 Munich<br />
-Finance degree, data science master's, four years in France, and now learning German one Maß at a time.
+*📍 **China → Taiwan → France** (Bordeaux · Toulouse · Paris) **→ Munich**<br />
+A **finance** degree, a **data science** master's, four years in France, and now learning German one Maß at a time.*
 
-**Currently:** learning German (B1) · building a customer-retention project · open to Data / BI Analyst roles in Munich
+***Currently:** learning **German (B1)** · building a **customer-retention project** · open to **Data / BI Analyst roles** in Munich*
 
 <br clear="right" />
 
