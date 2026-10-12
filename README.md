@@ -52,6 +52,8 @@ Each one has a live dashboard you can click around in, and a notebook that walks
 - An LSTM model for APEM that predicts operation times in manufacturing sequences.
 - A skincare advice chatbot built with Copilot Studio and Python.
 
+**Just for fun:** [mood jukebox](https://mood-jazz-jukebox-pj9fzgvsfxyczs7aerxtxm.streamlit.app/), a little Streamlit app that picks jazz, lo-fi or city pop for your mood and where you're listening ([code](https://github.com/hakowxy/mood-jazz-jukebox)) ♪
+
 ### Toolbox
 
 **Tools:** Power BI (DAX, Power Query), SQL, Python (pandas), R, Tableau, Excel, Azure ML, Dataiku, Spark, Salesforce
