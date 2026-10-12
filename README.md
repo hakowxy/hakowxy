@@ -19,6 +19,15 @@ Before that I studied finance and economics, then did an MSc in Data Science & A
 
 Each one has a live dashboard you can click around in, and a notebook that walks through the analysis.
 
+<a href="https://hakowxy.github.io/wiesn-mass-index/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/mass-dark.png" />
+    <img src="assets/cards/mass-light.png" width="100%" alt="The Maß Index: Oktoberfest beer prices vs inflation, +85% real price rise since 1991" />
+  </picture>
+</a>
+
+[Live dashboard](https://hakowxy.github.io/wiesn-mass-index/) · [Code & analysis](https://github.com/hakowxy/wiesn-mass-index)
+
 <a href="https://hakowxy.github.io/munich-airbnb/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/airbnb-dark.png" />

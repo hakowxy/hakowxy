@@ -23,7 +23,15 @@ IMPACT = [
 
 PROJECTS = [
     {
-        "slug": "airbnb", "accent": ("#b45309", "#f59e0b"),
+        "slug": "mass", "accent": ("#b45309", "#fbbf24"),
+        "eyebrow": "Munich open data · Inflation · Economics",
+        "title": "The Maß Index",
+        "text": "40 years of Oktoberfest beer prices against German inflation, wages and the festival menu, with a time machine and a bill builder.",
+        "metrics": [("+85%", "real price rise since 1991"), ("72 min", "of minimum-wage work per Maß"), ("≈2033", "a Maß hits 20 € on the current trend")],
+        "tags": "Python · pandas · price indices · Plotly",
+    },
+    {
+        "slug": "airbnb", "accent": ("#be185d", "#f472b6"),
         "eyebrow": "Munich open data · Pricing · NLP",
         "title": "Munich on Airbnb",
         "text": "What Oktoberfest does to prices and occupancy, and what guests notice in German, English, French and Chinese reviews.",
