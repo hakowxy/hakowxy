@@ -23,6 +23,14 @@ IMPACT = [
 
 PROJECTS = [
     {
+        "slug": "email", "accent": ("#4338ca", "#a5b4fc"),
+        "eyebrow": "CRM · A/B testing · Campaign planning",
+        "title": "Who should get which email?",
+        "text": "Readout, segment analysis, uplift modelling and a budget planner for a randomised email campaign test on 64,000 customers.",
+        "metrics": [("+72%", "site visits from the best email"), ("$130", "profit per 1,000 emails"), ("7", "targeting policies tested out of sample")],
+        "tags": "SQL (DuckDB) · Python · uplift models · Plotly",
+    },
+    {
         "slug": "mass", "accent": ("#b45309", "#fbbf24"),
         "eyebrow": "Munich open data · Inflation · Economics",
         "title": "The Maß Index",

@@ -9,7 +9,7 @@
 *📍 **China → Taiwan → France** (Bordeaux · Toulouse · Paris) **→ Munich**<br />
 A **finance** degree, a **data science** master's, four years in France, and now learning German one Maß at a time.*
 
-***Currently:** learning **German (B1)** · building a **customer-retention project** · open to **Data / BI Analyst roles** in Munich*
+***Currently:** learning **German (B1)** · turning my email-campaign analysis into a **Tableau** dashboard · open to **Data / BI / Marketing Analytics roles** in Munich*
 
 <br clear="right" />
 
@@ -21,6 +21,15 @@ A **finance** degree, a **data science** master's, four years in France, and now
 ### Projects
 
 *Each one has a **live dashboard** you can click around in, and a **notebook** that walks through the analysis.*
+
+<a href="https://hakowxy.github.io/email-campaign-analytics/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/email-dark.png" />
+    <img src="assets/cards/email-light.png" width="100%" alt="Who should get which email? Campaign analytics on a 64,000-customer A/B test" />
+  </picture>
+</a>
+
+[Live dashboard](https://hakowxy.github.io/email-campaign-analytics/) · [Code & analysis](https://github.com/hakowxy/email-campaign-analytics)
 
 <a href="https://hakowxy.github.io/wiesn-mass-index/">
   <picture>
@@ -75,6 +84,8 @@ A **finance** degree, a **data science** master's, four years in France, and now
 ### Toolbox
 
 ***Tools:*** *Power BI (DAX, Power Query), SQL, Python (pandas), R, Tableau, Excel, Azure ML, Dataiku, Spark, Salesforce*
+
+***Methods:*** *A/B testing, uplift modelling, customer segmentation, forecasting, regression*
 
 ***Certifications:*** *Power BI Data Analyst (PL-300), Azure Data Scientist (DP-100), Tableau Desktop Specialist, SAS Certified Data Scientist*
 
